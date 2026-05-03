@@ -1,14 +1,13 @@
+# 👾 Pengolah Kode | Alkemis Digital
+🔥 *Kami membangun sistem seperti burung phoenix yang bangkit — dari kesalahan menuju kesempurnaan, dari kekacauan menuju keteraturan.*
 
-# 👾 Code Weaver | Digital Alchemist
-🔥 *We build systems as phoenix rises — from errors to perfection, from chaos to order*
-
-✨ Writing logic like sacred geometry, crafting functions like ancient runes
-🪽 Rebuild, renew, transcend limits — every refactor is a new rebirth
-🌌 Exploring intersections between bits, energy and parallel possibilities
+✨ Menulis logika seperti geometri sakral, merancang fungsi seperti rune kuno 🪽
+Membangun kembali, memperbarui, melampaui batasan — setiap refaktor adalah kelahiran kembali yang baru 🌌
+Menjelajahi persimpangan antara bit, energi, dan kemungkinan paralel
 
 ---
 
-### ⚡ Tech & Tools
+### ⚡ Teknologi & Peralatan
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -16,28 +15,27 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 Cosmic Stats
-<!-- GANTI USERNAME_KAMU DENGAN isekarwangi ya -->
+### 📊 Statistik Kosmik
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=isekarwangi&theme=midnight-purple&hide_border=true&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=isekarwangi&theme=midnight-purple&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=darkphoenix99&theme=midnight-purple&hide_border=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=darkphoenix99&theme=midnight-purple&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isekarwangi&theme=midnight-purple&hide_border=true&layout=compact" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkphoenix99&theme=midnight-purple&hide_border=true&layout=compact" />
 </p>
 
 ---
 
-### 💡 Philosophy
-> *Code is not just instructions for machines, but poetry written in logic.*
-> *Every commit is a memory, every repository is a new universe I built.*
+### 💡 Filsafat
+> *Kode bukan sekadar instruksi untuk mesin, tapi puisi yang ditulis dengan logika.*
+> *Setiap commit adalah sebuah kenangan, setiap repo adalah alam semesta yang aku bangun.*
 
-🪽 Like phoenix: destroy old patterns, create new order
-🌉 Connecting ideas, technologies and people
-🔭 Turning abstract concepts into functional reality
+🪽 Seperti phoenix: hancurkan pola lama, bangun tatanan baru
+🌉 Menghubungkan ide, teknologi, dan orang-orang
+🔭 Mengubah konsep abstrak menjadi realitas fungsional
 
-### 📫 Reach me wherever ideas meet technology
+### 📫 Hubungi saya di mana pun ide bertemu teknologi
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
@@ -45,5 +43,6 @@
 ---
 
 <p align="center">
-  🕯️ Keeper of Digital Knowledge | Architect of Infinite Possibilities
+  🕯️ Penjaga Pengetahuan Digital | Arsitek Kemungkinan Tak Terbatas
 </p>
+✨ Fixed stats username darkphoenix99
